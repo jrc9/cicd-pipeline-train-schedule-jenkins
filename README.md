@@ -16,8 +16,3 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 
 Agregue modificacion.
 
-Agregue una modificacion.
-
-Agregue modificacion para el webhook para que dispare en automatico.
-
-Ejemplo
